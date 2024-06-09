@@ -60,8 +60,6 @@ ___
 
 [Video](https://youtu.be/T-61iMFjbik)
 
-[Live Test (visitor UI)](https://andrewmendes.pythonanywhere.com/)
-
 <br>
 
 🔼 [To table of contents](#table-of-contents)
